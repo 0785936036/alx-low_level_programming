@@ -1,1 +1,1 @@
-0x04-more functions nested loops
+0x06-pointers arrays strings
